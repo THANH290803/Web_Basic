@@ -1,0 +1,32 @@
+.text {
+    display:inline-block; margin-left: 40px;
+}
+
+.start {
+    height: 50px;
+    background-color: black;
+    padding-left: 520px;
+    padding-top: 30px;
+    color: white;
+}
+
+.photo {
+    display:inline-block; margin-left: 170px;
+}
+
+h1 {
+    text-align: center;
+    word-spacing: 22px;
+}
+.light {
+    display:inline-block; vertical-align: 330px;
+    text-align: right;
+}
+.moon{
+    
+    text-align: right;
+}
+
+
+
+
