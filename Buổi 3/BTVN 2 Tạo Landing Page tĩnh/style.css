@@ -36,6 +36,26 @@ h1 {
     border-top-right-radius: 20px;
 }
 
+.hs {
+    background-color: black;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.fs {
+    background-color: orange;
+    display: block;  margin-left: auto;  margin-right: auto;
+    width: 425px;
+    padding-top: 10px;
+    height: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
 
 
 
