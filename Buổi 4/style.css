@@ -16,16 +16,15 @@
     width: 140px;
     height: 70px;
     text-align: center;
-    padding-top: 25px;
+    padding: 36px 24px 0px 24px;
     font-size: 30px;
-    margin: 39px;
+    margin: 30px;
 }
 .js{
     border: 2px solid blue;
     width: 480px;
-    height: 25px;
-    text-align: 24px;
     padding: 10px;
+    padding-left: 24px;
     margin: 20px;
     font-size: 30px;
 
