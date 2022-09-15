@@ -1,0 +1,20 @@
+p {
+    font-size: 25px;
+    color: orange;
+}
+
+.price {
+    font-size: 20px;
+    color: blue;
+}
+
+h2:hover {
+    width: 20%;
+    background-color: red;
+    color: black;
+}
+
+.ds:hover {
+    background-color: blanchedalmond;  
+    color: red;
+}

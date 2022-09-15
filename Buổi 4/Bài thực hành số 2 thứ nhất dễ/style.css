@@ -1,0 +1,11 @@
+li:first-child {
+    width: 10%;
+    background-color: lightgreen;
+    color: green;
+}
+
+li:last-child {
+    width: 10%;
+    background-color: pink;
+    color: red
+}
