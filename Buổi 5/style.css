@@ -1,0 +1,33 @@
+#left {
+    display: flex; 
+    align-items: center;
+    gap: 5px;
+}
+.fd {
+    background-color: lightgrey;
+    border: 0px solid white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 300px;
+    height: 30px;
+}
+
+#center {
+    display: flex; 
+    justify-content: center; 
+    gap: 50px
+}
+
+#header {
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+}
+
+#right {
+    display: flex; 
+    align-items: center;
+    gap: 20px;
+}
