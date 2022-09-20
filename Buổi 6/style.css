@@ -1,0 +1,60 @@
+.station {
+    height: 1000px;
+    width: 1000px;
+}
+
+.top {
+    background-color: aqua;
+    width: 1000px;
+    height: 500px;
+    position: relative;
+}
+
+.bottom {
+    background-color: bisque;
+    width: 1000px;
+    height: 500px;
+}
+
+.vlon {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 2px solid black;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    position: absolute;
+    left: 450px;
+    top: 32%;
+}
+
+.vlon2 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 2px solid black;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    position: absolute;
+    top: 1%;
+    bottom: 45%;
+}
+
+.vlon3 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 2px solid black;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    position: absolute;
+    top: 62%;
+    bottom: 1%;
+    left: 29%;
+}
