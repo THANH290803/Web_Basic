@@ -1,0 +1,22 @@
+button {
+    font-size: 25px;
+}
+
+.vl1:hover{
+    background-color: aqua;
+    color: azure;
+}
+
+.vl2:hover {
+    transform: scale(2);
+    transition-duration: 2s;
+}
+
+.vl3:hover {
+    transform: rotate(1turn);
+    transition: 1s;
+}
+
+.vl4:hover {
+    transform: rotate(180deg);
+}
