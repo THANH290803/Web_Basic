@@ -1,0 +1,24 @@
+p::selection {
+    background-color: orange;
+    color: blue;
+}
+
+.text {
+    text-align: center;
+}
+
+a::after {
+    content: 'thú vị trên thế giới';
+    background-color: aqua;
+    color: blueviolet;
+}
+
+a::before {
+    content: 'Cuộc sống';
+    background-color: orange;
+    color: aqua;
+}
+
+li::marker {
+    content: '😄';
+}
