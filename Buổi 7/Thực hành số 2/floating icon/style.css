@@ -1,0 +1,15 @@
+.all {
+    height: 710px;
+    background-image: linear-gradient(to right, rgb(88, 58, 255), blueviolet);
+}
+
+img {
+    border: 5px solid pink;
+    border-radius: 50%;
+    box-shadow: 3px 3px 20px;
+    position: relative;
+    top: 180px;
+    left: 640px;
+    transform: scaleY(2);
+}
+
