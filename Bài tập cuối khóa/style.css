@@ -1,6 +1,7 @@
 .header {
     display: flex;
     justify-content: space-between;
+    margin: 0px;
 }
 
 .logo img {
@@ -36,76 +37,21 @@
     padding-right: 20px;
 }
 
-.AD {
-    color: yellow;
-    position: absolute;
-    top: 575px;
-    left: 240px;
-    font-size: 25px;
+.photo {
+    display: flex;
+    width: 1400px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-end;
 }
 
-.CL {
-    color: blue;
-    position: absolute;
-    top: 575px;
-    left: 670px;
+.TT p {
+    display: flex;
+    justify-content: center;
+    padding-left: 110px;
+    margin-top: 0px;
     font-size: 25px;
-}
-
-.tx {
-    color: rgb(255, 0, 195);
-    position: absolute;
-    top: 575px;
-    left: 1180px;
-    font-size: 25px;
-}
-
-.couple {
-    color: purple;
-    position: absolute;
-    top: 925px;
-    left: 260px;
-    font-size: 25px;
-}
-
-.cute {
-    color: orange;
-    position: absolute;
-    top: 925px;
-    left: 740px;
-    font-size: 25px;
-}
-
-.um {
-    color: white;
-    position: absolute;
-    top: 925px;
-    left: 1180px;
-    font-size: 25px;
-}
-
-.pv {
-    color: aqua;
-    position: absolute;
-    top: 1300px;
-    left: 235px;
-    font-size: 25px;
-}
-
-.cs {
-    color: black;
-    position: absolute;
-    top: 1300px;
-    left: 730px;
-    font-size: 25px;
-}
-
-.mc {
-    color: rgb(0, 214, 252);
-    position: absolute;
-    top: 1300px;
-    left: 1180px;
-    font-size: 25px;
+    color: brown;
 }
 
 .photo img:hover {
